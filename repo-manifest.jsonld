@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/espressif/esptool/commit/af1ed10290e6328416cf8c73076bba15b459cbb2",
       "git:hexsha": "af1ed10290e6328416cf8c73076bba15b459cbb2",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/espressif/esptool/commit/aaa25e0cf0c38ffba2b73270773eec3ded2f69c3",
