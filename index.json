@@ -1,0 +1,11 @@
+{
+  "org": "espressif",
+  "repo": "esptool",
+  "versions": [
+    {
+      "commit": "af1ed10290e6328416cf8c73076bba15b459cbb2",
+      "tag": "",
+      "parsed_at": "2026-10-17T23:50:02.672825+00:00"
+    }
+  ]
+}
